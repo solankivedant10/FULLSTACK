@@ -1,1 +1,1 @@
-Sharing mt learning journey of fullstack development
+Sharing my learning journey of full-stack development
