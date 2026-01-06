@@ -1,0 +1,30 @@
+/*Challenge 12: Re-Design the cookie widget
+
+body{
+    background: white;
+    color: Blue;
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+} */
+
+/*Challenge 13: select the image tag and set the width of google logo to 300px*/
+.image-column{
+    display: block;  
+    width: 300px;
+    margin-bottom: 20px; /*Challenge 18: Add some space netween the logo and the search field*/
+    margin-left: auto; /*Challenge 19: Center the logo and the search field*/
+    margin-right: auto;
+}
+
+.input-column{
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main{
+    margin-top: 100px;  /*Challenge 14: Add some space (margin) above our image */
+}
+
