@@ -1,15 +1,20 @@
 /*Challenge 20: Add padding to make our card look like the provided design.*/
 
 .card{
-    color: white;
+    color: #222222;
     background: lightgray;
     width: 300px;
     margin-left: auto;
     margin-right: auto; 
-    margin-top: auto;
-    padding-top: 100px;
-    padding-right: 100px;
-    padding-left: 100px;
-    padding-bottom: 100px;
+    margin-top: 50px;
+
+    /*Challenge 21: Change the values to match of border and border radius*/
+    border: 4px solid black; 
+    border-radius: 20px; 
+
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
 

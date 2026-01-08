@@ -1,0 +1,7 @@
+/*Challenge 31: Set the width of the image to 150px */
+.image{
+    width: 150px;
+}
+body{
+    margin: 20px;
+}
