@@ -5,3 +5,23 @@
 body{
     margin: 20px;
 }
+
+/*Challenge 32: Give the card div a class and 
+select the card class and give it a dotted blue border also
+also add 20 pixels of padding on all sides of the card */
+.card{
+    width: 400px; /*Challenge 36: Give the card a width of 400px wide and center it*/
+    margin: auto;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around; /*Challenge 35: Add horizontal space between the flex children*/
+    text-align: center; /*Challenge 37: Center the text in the <p> and <h4> elements*/
+}
+
+
+/*Challenge 34: Create a utility class for the dotted blue border.
+Give the class to both flexbox children in the HTML*/
+.border-blue{
+    border: 1px dotted blue;
+}
+
